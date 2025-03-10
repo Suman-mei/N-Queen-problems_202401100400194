@@ -1,8 +1,4 @@
-# N-Queen-problems_202401100400194Here's a template for a **README file** for a project focused on the **N-Queen problem**. This file provides an explanation of the problem, the approach to solving it, and instructions for running the code.
-
----
-
-# N-Queen Problem Solver
+# N-Queen-problems_20240110040019
 
 ## Description
 
